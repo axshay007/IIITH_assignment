@@ -1,6 +1,6 @@
 # IIITH_assignment
 Forced Alignment with MFA on Google Colab
-
+ 
 This repository contains the outputs and script for a forced alignment task performed using the Montreal Forced Aligner (MFA). The entire process was run in a Google Colab environment to manage dependencies.
 
 Contents
